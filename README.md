@@ -1,4 +1,3 @@
-```markdown
 # QuietRecon Reports
 
 Professional penetration testing reports, assessment writeups, attack-path documentation, and security findings developed through hands-on offensive security training and lab environments.
@@ -115,4 +114,3 @@ GitHub: https://github.com/QuietRecon
 > Enumeration is the attack.
 
 Careful methodology, disciplined testing, structured reporting, and clear communication remain core principles throughout all assessments documented within this repository.
-```
